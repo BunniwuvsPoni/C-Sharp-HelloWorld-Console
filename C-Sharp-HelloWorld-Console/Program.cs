@@ -7,6 +7,7 @@ namespace C_Sharp_HelloWorld_Console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
